@@ -1,0 +1,41 @@
+|cff5555eeFour Horsemen
+--------------------|r
+
+Pull: von rechts
+-------------------
+{skull}|cffff7c0aThane|r = |cffaad372Deadly|r für |cffc69b6dTricksa|r
+{cross}|cff00ffffMograine|r  = |cffaad372Farawen|r für |cffc69b6dSilverrain|r
+{moon}|cffff0000Zeliek|r  = |cffc69b6dRugosch|r
+{square}|cff5555eeBlaumeux|r = |cffaad372Stüssi|r für |cffc69b6dBrognar|r
+
+Tanks + DDs: im Dreieck
+------------------------------
+{skull}|cffff7c0aThane|r: Tank 1 = |cffc69b6dTricksa|r + |cffff7c0aGrp 5|r
+|cffffff00Safe Spot ->{skull}|cffff7c0aThane|r: Tank 2 = |cffff7c0aBerndhart|r + |cffffff00Grp 6|r
+|cff00ff00Safe Spot -> {cross}|cff00ffffMograine|r: Tank 3 = |cffc69b6dMagothas|r +|cff55ee55 Grp 7|r
+{cross}|cff00ffffMograine|r: Tank 2 = |cffc69b6dSilverrain|r + |cff00ffffGrp 8|r
+
+{square}|cff5555eeBlaumeux|r: Tank 5 = |cffc69b6dBrognar|r
+{moon}|cffff0000Zeliek|r: Tank 6 = |cffc69b6dRugosch|r
+|cffff00ffSafe Spot -> {square}|cff5555eeBlaumeux|r: Tank 7 = |cffc69b6dHuga|r
+|cfff48cbaSafe Spot -> {moon}|cffff0000Zeliek|r: Tank 8 = |cffc69b6dTarah|r 
+
+Healer:  gegen den Uhrzeigersinn
+-----------------------------------------
+|cff3fc6eaHeal Team 1|r (Mark 1)
+{skull}|cffff7c0aThane|r = |cfff48cbaPlaymate|r
+{cross}|cff00ffffMograine|r = |cfff48cbaNachbar|r
+{moon}|cffff0000Zeliek|r = |cfff48cbaMelvon|r
+{square}|cff5555eeBlaumeux|r = |cfff48cbaDirkuwe|r
+
+|cffffff00Heal Team 2|r (Mark 2)
+{skull}|cffff7c0aThane|r = Namiel
+{cross}|cff00ffffMograine|r = Mirco
+{moon}|cffff0000Zeliek|r = Zèl
+{square}|cff5555eeBlaumeux|r = Ibeses
+
+|cff00ff00Heal Team |r3 (Mark 3)
+{skull}|cffff7c0aThane|rr =|cffff7c0aBearclaw|r
+{cross}|cff00ffffMograine|r = Gaiusultima
+{moon}|cffff0000Zeliek|r = |cfff48cbaAstarott|r
+{square}|cff5555eeBlaumeux|r = |cffff7c0aGenderbender|r
